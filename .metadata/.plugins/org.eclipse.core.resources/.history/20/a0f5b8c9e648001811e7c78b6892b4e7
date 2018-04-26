@@ -1,0 +1,20 @@
+package com.ht.demo;
+
+public class linkTest {
+	public static void main(String[] args) {
+		Node n1=new Node("经理");
+		Node n2=new Node("总监");
+		Node n3=new Node("组长");
+		
+		Link link =new Link();		
+		link.addNode(n1);
+		link.addNode(n2);
+		link.addNode(n3);
+		
+		link.deleteNode(n1);
+		//link.deleteNode(n3);
+		
+		link.seeNode();
+	}
+
+}

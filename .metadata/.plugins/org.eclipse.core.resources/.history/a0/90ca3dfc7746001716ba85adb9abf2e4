@@ -1,0 +1,7 @@
+package Order;
+
+public class Kuaisu {
+	public static void main(String[] args) {
+		
+	}
+}

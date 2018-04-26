@@ -1,0 +1,11 @@
+package Order;
+
+public class Kuaisu {
+	public static void main(String[] args) {
+		int[] a={3,4,9,0,7}
+	}
+	
+	static void Order(int left,int right,int[] a){
+		
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ArrayStrack.java&apos; to &apos;Test/src/strack&apos;&#x0D;&#x0A;－ 原始项目：“T2”&#x0D;&#x0A;－ 目标元素：“Test/src/strack”&#x0D;&#x0A;－ 原始元素：“demo.Array.ArrayStrack.java”" description="复制编译单元" destination="=Test/src&lt;strack" element1="/src&lt;demo.Array{ArrayStrack.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1495843637014" units="1" version="1.0"/>
+</session>

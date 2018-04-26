@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.ht.Link"/>
+<fullyQualifiedTypeName name="com.ht.Node"/>
+<fullyQualifiedTypeName name="work.StudentLink"/>
+<fullyQualifiedTypeName name="work.StudentNode"/>
+<fullyQualifiedTypeName name="demo.ArrayStrack"/>
+<fullyQualifiedTypeName name="com.ht.demo.Node"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="demo.Link.Link"/>
+<fullyQualifiedTypeName name="demo.Link.Node"/>
+<fullyQualifiedTypeName name="demo.Link.LinkStrack"/>
+<fullyQualifiedTypeName name="strack.ArrayStrack"/>
+<fullyQualifiedTypeName name="com.ht.ArrayQueue"/>
+<fullyQualifiedTypeName name="test1.ArrayStrack"/>
+<fullyQualifiedTypeName name="test1.ArrayQueue"/>
+<fullyQualifiedTypeName name="test2.ArrayQueue"/>
+<fullyQualifiedTypeName name="test2.ArrayQueue2"/>
+<fullyQualifiedTypeName name="test2.Ball"/>
+<fullyQualifiedTypeName name="BinaryTree.Tree"/>
+<fullyQualifiedTypeName name="BinaryTree.Node"/>
+<fullyQualifiedTypeName name="demo2.Node"/>
+<fullyQualifiedTypeName name="demo2.Tree"/>
+</qualifiedTypeNameHistroy>

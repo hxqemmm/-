@@ -1,0 +1,25 @@
+package util;
+
+public class SortUtils {
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	/**
+	 * 把两个数位置交换
+	 * */
+	public void swap(int[] data, int i, int j) {  
+        int temp = data[i];  
+        data[i] = data[j];  
+        data[j] = temp;  
+    }  
+}

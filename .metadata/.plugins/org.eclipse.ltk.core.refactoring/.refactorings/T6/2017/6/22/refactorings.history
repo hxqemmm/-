@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将类型“locating.half”重命名为“halfSearch”&#x0D;&#x0A;－ 原始项目：“T6”&#x0D;&#x0A;－ 原始元素：“locating.half”&#x0D;&#x0A;－ 重命名的元素：“locating.halfSearch”&#x0D;&#x0A;－ 更新对已重构元素的引用&#x0D;&#x0A;－ 更新注释和字符串中出现的文本" description="重命名类型“half”" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;locating{half.java[half" matchStrategy="1" name="halfSearch" qualified="false" references="true" similarDeclarations="false" stamp="1496370803677" textual="false" version="1.0"/>
+</session>

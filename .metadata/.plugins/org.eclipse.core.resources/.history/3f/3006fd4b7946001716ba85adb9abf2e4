@@ -1,0 +1,28 @@
+package Order;
+
+public class Kuaisu {
+	public static void main(String[] args) {
+		int[] a={3,4,9,0,7};
+		
+	}
+	
+	static void Order(int left,int right,int[] a){
+		int i,j,temp;
+		if(left>right){
+			return;
+		}
+		temp=a[left];
+		i=left;
+		j=right;
+		
+		while(i!=j){
+			while(a[j]>a[temp]&&i<j){	//ÏÈ´ÓÓÒÍù×ó
+				
+			}
+			while(a[i]<a[temp]&&i<j){	//
+				
+			}
+			
+		}
+	}
+}

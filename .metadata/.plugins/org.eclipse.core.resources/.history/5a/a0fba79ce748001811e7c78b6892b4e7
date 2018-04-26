@@ -1,0 +1,39 @@
+package work;
+
+public class Test {
+	public static void main(String[] args) {
+		StudentNode n1=new StudentNode();
+		n1.setNo(1);
+		n1.setName("张三");
+		n1.setAge(17);
+		n1.setClasses("ht03");
+		
+		StudentNode n2=new StudentNode();
+		n2.setNo(2);
+		n2.setName("王五");
+		n2.setAge(19);
+		n2.setClasses("ht01");
+		
+		StudentNode n3=new StudentNode();
+		n3.setNo(3);
+		n3.setName("李二");
+		n3.setAge(18);
+		n3.setClasses("ht04");
+		
+		StudentLink link=new StudentLink();
+		StudentNode head=new StudentNode();
+		link.setHead(head);
+		
+		link.addStudentNode(n1);
+		link.addStudentNode(n2);
+		link.addStudentNode(n3);
+		
+		//link.StudentNo(3);
+		//link.StudentName("王五");
+		
+		link.deleteStudentNo(2);
+		link.seeStudentNode();
+		
+	}
+
+}
